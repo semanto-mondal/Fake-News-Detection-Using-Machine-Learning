@@ -1,6 +1,6 @@
 # Fake-News-Detection-Using-Machine-Learning
 # Fake News Detection: A Comparative Study of Machine Learning Techniques
-The paper has also published in IEEE and can be accessed from the following link:
+# The paper has also been published in IEEE and can be accessed from the following link:
 [PAPER LINK](https://ieeexplore.ieee.org/document/10450148)
 
 ![Flowchart (4)](https://github.com/user-attachments/assets/3022a7af-971e-4a95-a409-008416067847)
